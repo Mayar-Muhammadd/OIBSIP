@@ -138,7 +138,7 @@ customer_behavior['Segment'] = kmeans.fit_predict(X_scaled)
 
 # analyze segments (still using original names)
 segment_summary = customer_behavior.groupby('Segment').mean().round(2)
-print("\n📊 Segment Summary:\n", segment_summary)
+print("segment Summary:", segment_summary)
 
 
 #5)Visualization: Create visualizations (e.g., scatter plots, bar charts) to illustrate customer
