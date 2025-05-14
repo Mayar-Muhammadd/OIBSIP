@@ -238,7 +238,7 @@ plt.show()
 
 #goal: move them up the value ladder
 
-#segment 1 – at-risk/low engagement
+#segment 1 – low engagement
 #insights:
 
 #lowest purchase amount and frequency
